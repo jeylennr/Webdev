@@ -29,7 +29,7 @@ p{
 }
 
 /* Challenge 5: Change the family of font being used for all lists to "Comic Sans MS".  What element creates a list? */
-ul{
+ol{
   font-family:"Comic Sans MS";
 }
 
